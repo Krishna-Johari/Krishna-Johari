@@ -20,7 +20,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/krishna-johari-77b644350/)" target="_blank">
+  <a href="https://www.linkedin.com/in/krishna-johari-77b644350/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   
