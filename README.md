@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Krishna Johari</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Exploring Modern Web Development</h3>
 
----
-
 ## 🙋‍♀️ About Me
 - 🎓 BSc IT student passionate about full-stack web development and modern web technologies  
 - 💻 Building practical web applications and digital solutions using the MERN stack with AI integration  
 - 💡 Enjoy turning ideas into functional solutions through design, logic, and implementation  
 - 🤝 Open to internships, entry-level opportunities, collaboration, and continuous learning
-
----
 
 ## 🌐 Connect with Me
 <p align="left">
@@ -26,10 +22,7 @@
   </a>
 </p>
 
----
-
 ## 🛠 Tech Stack
-
 ### 💻 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -59,8 +52,6 @@
   <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
----
-
 ## 🚀 Featured Projects
 ### 👨‍💼 [Employee Directory Search System](https://github.com/Krishna-Johari/employee-directory-search-system)
 An employee search system built for efficient record filtering.
@@ -71,11 +62,7 @@ A full-stack food delivery web application with authentication, product listings
 ### 🎮 [Tic Tac Toe Game](https://github.com/Krishna-Johari/Tic-Tac-Toe-Game-React-Mini-Project)
 A React mini-project showcasing interactive UI, game logic, and state management concepts.
 
----
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Krishna-Johari&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
