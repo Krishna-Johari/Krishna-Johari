@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Krishna Johari</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Building Real-World Web Applications</h3>
+<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Exploring Modern Web Development</h3>
 
 <p align="center">
-  Passionate about creating functional, user-focused digital solutions with clean UI and strong backend logic.
+  I enjoy building clean, functional, and user-friendly web applications.
 </p>
 
 ---
 
 ## 🙋‍♀️ About Me
 
-- 🎓 BSc IT student passionate about full-stack development  
-- 💻 Building modern web applications using the MERN stack  
-- 🚀 Interested in solving real-world problems through technology  
-- 🌱 Currently improving backend development and project architecture  
+- 🎓 BSc IT student interested in full-stack web development  
+- 💻 Building web applications using React, Node.js, Express, MongoDB, and Next.js  
+- 🎨 I also enjoy creating clean and responsive user interfaces  
 - 🤝 Open to internships, collaboration, and learning opportunities  
 
 ---
@@ -43,6 +42,8 @@
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ### ⚙ Backend
@@ -69,29 +70,25 @@
 
 ## 🚀 Featured Projects
 
-### 🍔 [Food Delivery Website](https://github.com/Krishna-Johari/Food-Delivery-Website-)
-### 🛒 [Grocery Website](https://github.com/Krishna-Johari/Grocery-Website)
 ### 👨‍💼 [Employee Directory Search System](https://github.com/Krishna-Johari/employee-directory-search-system)
+An employee search system built for efficient record filtering.
+
 ### 🎮 [Tic Tac Toe Game](https://github.com/Krishna-Johari/Tic-Tac-Toe-Game-React-Mini-Project)
+A React mini-project showcasing interactive UI, game logic, and state management concepts.
+
+### 🍔 [Food Delivery Website](https://github.com/Krishna-Johari/Food-Delivery-Website-)
+A full-stack food delivery web application with authentication, product listings, cart and checkout flow, payment integration, and admin-side management features.
+
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-Johari&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Krishna-Johari&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## ⚡ Currently Learning
+## ✨ What I Enjoy Building
 
-- Advanced MERN stack development  
-- Backend optimization and API structuring  
-- Clean UI design principles  
-- Real-world full-stack project building  
-
----
-
-## ✨ Fun Fact
-
-I enjoy turning ideas into real-world web applications that are clean, useful, and user-friendly 🚀
+I enjoy creating web applications that are clean, functional, and easy to use.
