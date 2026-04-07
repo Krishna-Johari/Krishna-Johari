@@ -88,7 +88,3 @@ A full-stack food delivery web application with authentication, product listings
 </p>
 
 ---
-
-## ✨ What I Enjoy Building
-
-I enjoy creating web applications that are clean, functional, and easy to use.
