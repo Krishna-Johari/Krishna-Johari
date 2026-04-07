@@ -1,23 +1,17 @@
 <h1 align="center">Hi 👋, I'm Krishna Johari</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Exploring Modern Web Development</h3>
 
-<p align="center">
-  I enjoy building clean, functional, and user-friendly web applications.
-</p>
-
 ---
 
 ## 🙋‍♀️ About Me
-
-- 🎓 BSc IT student interested in full-stack web development  
-- 💻 Building web applications using React, Node.js, Express, MongoDB, and Next.js  
-- 🎨 I also enjoy creating clean and responsive user interfaces  
-- 🤝 Open to internships, collaboration, and learning opportunities  
+- 🎓 BSc IT student passionate about full-stack web development and modern web technologies  
+- 💻 Building practical web applications and digital solutions using the MERN stack with AI integration  
+- 💡 Enjoy turning ideas into functional solutions through design, logic, and implementation  
+- 🤝 Open to internships, entry-level opportunities, collaboration, and continuous learning
 
 ---
 
 ## 🌐 Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/krishna-johari-77b644350/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
@@ -63,26 +57,23 @@
   <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-
 ### 👨‍💼 [Employee Directory Search System](https://github.com/Krishna-Johari/employee-directory-search-system)
 An employee search system built for efficient record filtering.
-
-### 🎮 [Tic Tac Toe Game](https://github.com/Krishna-Johari/Tic-Tac-Toe-Game-React-Mini-Project)
-A React mini-project showcasing interactive UI, game logic, and state management concepts.
 
 ### 🍔 [Food Delivery Website](https://github.com/Krishna-Johari/Food-Delivery-Website-)
 A full-stack food delivery web application with authentication, product listings, cart and checkout flow, payment integration, and admin-side management features.
 
+### 🎮 [Tic Tac Toe Game](https://github.com/Krishna-Johari/Tic-Tac-Toe-Game-React-Mini-Project)
+A React mini-project showcasing interactive UI, game logic, and state management concepts.
+
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Krishna-Johari&theme=tokyonight" alt="GitHub Streak" />
 </p>
